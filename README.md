@@ -7,7 +7,7 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
 
 ## Estructura del Repositorio
 1. **Suma de los dígitos de un número**
-   
+   https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema1.cpp
 2. **Inverso de un número**
    - `ejercicios/inverso_numero.c`
 3. **Potencia mediante sumas sucesivas**
