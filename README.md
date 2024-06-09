@@ -9,7 +9,7 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
 1. **Suma de los dígitos de un número**
    https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema1.cpp
 2. **Inverso de un número**
-   - `ejercicios/inverso_numero.c`
+   https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema2.cpp
 3. **Potencia mediante sumas sucesivas**
    - `ejercicios/potencia_sumas.c`
 4. **Radicación mediante restas sucesivas**
