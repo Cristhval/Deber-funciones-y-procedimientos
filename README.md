@@ -11,39 +11,40 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
 2. **Inverso de un número**
    https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema2.cpp
 3. **Potencia mediante sumas sucesivas**
-   - `ejercicios/potencia_sumas.c`
+   https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema3.cpp
 4. **Radicación mediante restas sucesivas**
-   - `ejercicios/radicacion_restas.c`
+   https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema4.cpp
 5. **Serie de Fibonacci**
-   - `ejercicios/serie_fibonacci.c`
+   https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema5.cpp
 6. **Factorial de un número**
-   - `ejercicios/factorial.c`
+   https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema6.cpp
 7. **Suma de una serie aritmética**
-   - `ejercicios/suma_aritmetica.c`
+   https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema7.cpp
 8. **Producto de una serie geométrica**
-   - `ejercicios/producto_geometrica.c`
+   https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema8.cpp
 9. **Número de dígitos de un número**
-   - `ejercicios/numero_digitos.c`
+   https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema9.cpp
 10. **Verificar si un número es primo**
-    - `ejercicios/verificar_primo.c`
+    https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema10.cpp
 11. **Encontrar el MCD (Máximo Común Divisor)**
-    - `ejercicios/mcd.c`
+    https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema11.cpp
 12. **Sumar los números impares hasta n**
-    - `ejercicios/suma_impares.c`
+    https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema12.cpp
 13. **Sumar los números pares hasta n**
-    - `ejercicios/suma_pares.c`
+    https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema13.cpp
 14. **Suma de los cuadrados de los primeros n números**
-    - `ejercicios/suma_cuadrados.c`
+    https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema14.cpp
 15. **Suma de los cubos de los primeros n números**
-    - `ejercicios/suma_cubos.c`
+    https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema15.cpp
 16. **Suma de una serie de números fraccionarios**
-    - `ejercicios/suma_fraccionarios.c`
+    https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema16.cpp
 17. **Producto de una serie de números fraccionarios**
-    - `ejercicios/producto_fraccionarios.c`
+    https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema17.cpp
 18. **Contar los números primos hasta n**
-    - `ejercicios/contar_primos.c`
+    https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema18.cpp
 19. **Calcular el n-ésimo número triangular**
-    - `ejercicios/numero_triangular.c`
+    https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema19.cpp
 20. **Calcular la suma de los factoriales de los primeros n números**
-    - `ejercicios/suma_factoriales.c`
+    https://github.com/Cristhval/Deber-funciones-y-procedimientos/blob/main/problema20.cpp
+    
 
